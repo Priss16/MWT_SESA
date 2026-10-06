@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
